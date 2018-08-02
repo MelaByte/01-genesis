@@ -1,4 +1,4 @@
-[Find More Info About MelaByte Hackathons Here](https://github.com/MelaByte/hackathon-rules)
+[Find More Info About MelaByte Coding Contests Here](https://github.com/MelaByte/dashboard)
 
 Contest Name: Genesis
 Contest #: 1
