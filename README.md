@@ -10,8 +10,8 @@ Contest End Date: N/A
 Status: Needs at least 3 contestants to start
 
 Contestants:
-Luke Chen Shui
-
+- Luke Chen Shui
+- Jordan Jones
 Rankings: 
 
 Votes:
