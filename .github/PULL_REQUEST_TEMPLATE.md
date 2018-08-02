@@ -1,4 +1,6 @@
-# MelaBytes Hackathon Entry
+<img src="./melabytes.jpg" height="30px" style="display:inline;">
+
+<h1 style="display:inline">MelaBytes Hackathon Entry</h1>
 
 ### Project Name
 
