@@ -11,6 +11,7 @@ Status: Needs at least 3 contestants to start
 
 Contestants:
 Luke Chen Shui
+Khalin Cheverria
 
 Rankings: 
 
