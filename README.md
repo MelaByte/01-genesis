@@ -3,7 +3,7 @@
 ## Contest Name:
 Genesis
 
-# Contest #: 
+## Contest #: 
 1
 
 ## Contest Start Date: 
