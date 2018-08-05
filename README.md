@@ -1,18 +1,24 @@
-[Find More Info About MelaByte Coding Contests Here](https://github.com/MelaByte/dashboard)
+# [Find More Info About MelaByte Coding Contests Here](https://github.com/MelaByte/dashboard)
 
-Contest Name: Genesis
-Contest #: 1
+## Contest Name:
+Genesis
 
-Contest Start Date: N/A
+# Contest #: 
+1
 
-Contest End Date: N/A
+## Contest Start Date: 
+N/A
 
-Status: Needs at least 3 contestants to start
+## Contest End Date: 
+N/A
 
-Contestants:
+## Status: 
+Needs at least 3 contestants to start
+
+## Contestants:
 - Luke Chen Shui
 - Khalin Cheverria
 
-Rankings: 
+## Rankings: 
 
-Votes:
+## Votes:
