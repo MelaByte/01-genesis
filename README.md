@@ -7,13 +7,13 @@ Genesis
 1
 
 ## Contest Start Date: 
-N/A
+Tuesday, August 7, 2018
 
 ## Contest End Date: 
-N/A
+Tuesday, September 4, 2018
 
 ## Status: 
-Needs at least 3 contestants to start
+Started
 
 Contestants:
 - Luke Chen Shui
