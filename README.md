@@ -15,8 +15,9 @@ N/A
 ## Status: 
 Needs at least 3 contestants to start
 
-## Contestants:
+Contestants:
 - Luke Chen Shui
+- Jordan Jones
 - Khalin Cheverria
 
 ## Rankings: 
